@@ -15,5 +15,5 @@ Address Configurable Over DIP Switch
 MCP23008 I2C I/O Expander provider is used to Read Digital Inputs. 
 Digital inputs are internally pulled up
 
-Datasheet:   https://drive.google.com/open?id=1hLJ30LZ2_irRHHLBtBQ9KZak2qX54JXU&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1DtWS_edaakMExW7qDxkqmBxwTu44ZhPE&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ex-i4-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ex-i4-user-guide/
